@@ -1,0 +1,30 @@
+# To-Do List
+
+## ✅ Soon
+- [✅] Confirmation messages for actions  
+  - e.g. “User deleted successfully”, “Session added”
+- [✅] Input validation  
+  - [✅] Ensure valid numbers (e.g., no negative hours or pay rates)  
+  - [✅] Check date format (`YYYY-MM-DD`)  
+  - [✅] Reject empty names  
+- [✅] Search user by name (not ID)
+- [✅] Delete user
+- [✅] Edit user info (name, payment type)
+
+---
+
+## 🔜 Later
+
+- [ ] Error handling on input / file data
+- [ ] Backup data before changing sth
+- [ ] Import users from external file
+- [ ] Better file structure  ++++++
+  - Migrate to CSV, JSON, or XML for cleaner storage  
+- [ ] Show total income of a user for a specific month/year  
+- [ ] Monthly summaries of hours worked and income  
+- [ ] View all sessions of a user grouped by time period  
+- [ ] Use a clearer and more consistent format in `users.txt`  
+- [ ] Export reports (e.g., monthly summary) to a new file  
+- [ ] GUI for better user experience 
+- [ ] When reloading the file, keep the id final, not sequential 
+- [ ] Add passwords

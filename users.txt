@@ -1,0 +1,18 @@
+User name: Thanos
+User id: 1
+Thanos's payment type: Daily
+Thanos's pay rate: 8.0
+Thanos's Sessions:
+	2002-02-09 - 8.0 hours worked
+	2025-04-20 - 8.0 hours worked
+User name: Vasilis
+User id: 2
+Vasilis's payment type: Daily
+Vasilis's pay rate: 5.5
+Vasilis's Sessions:
+	2026-01-01 - 6.0 hours worked
+User name: Dimitris
+User id: 3
+Dimitris's payment type: Daily
+Dimitris's pay rate: 2.0
+Dimitris's Sessions:

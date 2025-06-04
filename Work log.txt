@@ -1,0 +1,12 @@
+7 March:
+-Created the User class
+
+12 May:
+-Created the WorkSession Class
+
+13-14 May:
+-Created main method
+-Created file output for storing data
+
+15 May:
+-Created method for loading data from file
