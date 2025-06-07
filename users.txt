@@ -1,18 +1,274 @@
 User name: Thanos
 User id: 1
 Thanos's payment type: Daily
-Thanos's pay rate: 8.0
+Thanos's pay rate: 5.75
 Thanos's Sessions:
-	2002-02-09 - 8.0 hours worked
-	2025-04-20 - 8.0 hours worked
+	2025-01-07 - 7.5 hours worked
+	2025-04-11 - 6.9 hours worked
+	2024-03-07 - 6.7 hours worked
+	2025-02-16 - 4.5 hours worked
 User name: Vasilis
 User id: 2
-Vasilis's payment type: Daily
-Vasilis's pay rate: 5.5
+Vasilis's payment type: Hourly
+Vasilis's pay rate: 8.87
 Vasilis's Sessions:
-	2026-01-01 - 6.0 hours worked
+	2024-12-25 - 6.3 hours worked
+	2024-06-07 - 5.2 hours worked
+	2025-04-03 - 7.4 hours worked
+	2024-05-08 - 5.7 hours worked
 User name: Dimitris
 User id: 3
-Dimitris's payment type: Daily
-Dimitris's pay rate: 2.0
+Dimitris's payment type: Hourly
+Dimitris's pay rate: 4.37
 Dimitris's Sessions:
+	2024-07-23 - 8.0 hours worked
+	2024-12-30 - 6.1 hours worked
+	2025-04-26 - 7.1 hours worked
+User name: Eleni
+User id: 4
+Eleni's payment type: Hourly
+Eleni's pay rate: 6.97
+Eleni's Sessions:
+	2024-05-08 - 5.0 hours worked
+	2024-09-18 - 6.8 hours worked
+	2025-03-14 - 5.5 hours worked
+	2024-08-26 - 5.3 hours worked
+User name: Maria
+User id: 5
+Maria's payment type: Hourly
+Maria's pay rate: 8.59
+Maria's Sessions:
+	2024-03-02 - 6.8 hours worked
+	2025-02-11 - 6.7 hours worked
+	2024-04-30 - 6.1 hours worked
+User name: Nikos
+User id: 6
+Nikos's payment type: Hourly
+Nikos's pay rate: 2.08
+Nikos's Sessions:
+	2024-03-22 - 4.3 hours worked
+	2024-06-08 - 4.1 hours worked
+	2024-04-20 - 7.4 hours worked
+	2025-03-13 - 6.3 hours worked
+	2024-03-23 - 7.4 hours worked
+User name: Giannis
+User id: 7
+Giannis's payment type: Hourly
+Giannis's pay rate: 6.21
+Giannis's Sessions:
+	2024-03-08 - 4.1 hours worked
+	2024-06-13 - 5.2 hours worked
+	2025-05-03 - 5.4 hours worked
+User name: Katerina
+User id: 8
+Katerina's payment type: Daily
+Katerina's pay rate: 9.47
+Katerina's Sessions:
+	2024-11-27 - 7.5 hours worked
+	2024-07-31 - 6.5 hours worked
+	2024-08-03 - 7.1 hours worked
+	2024-04-16 - 6.7 hours worked
+	2024-09-26 - 4.7 hours worked
+User name: Christos
+User id: 9
+Christos's payment type: Daily
+Christos's pay rate: 9.74
+Christos's Sessions:
+	2025-03-23 - 7.7 hours worked
+	2024-06-03 - 4.8 hours worked
+	2024-08-26 - 6.2 hours worked
+	2025-05-04 - 5.1 hours worked
+User name: Sofia
+User id: 10
+Sofia's payment type: Hourly
+Sofia's pay rate: 3.48
+Sofia's Sessions:
+	2024-12-07 - 6.6 hours worked
+	2024-04-01 - 6.9 hours worked
+	2024-02-13 - 7.6 hours worked
+User name: Maria
+User id: 11
+Maria's payment type: Hourly
+Maria's pay rate: 2.22
+Maria's Sessions:
+	2024-02-18 - 7.6 hours worked
+	2024-03-20 - 6.7 hours worked
+	2024-01-16 - 7.9 hours worked
+	2024-04-19 - 7.9 hours worked
+	2025-03-13 - 6.6 hours worked
+	2024-04-26 - 8.0 hours worked
+User name: Maria
+User id: 12
+Maria's payment type: Hourly
+Maria's pay rate: 7.44
+Maria's Sessions:
+	2025-02-14 - 4.9 hours worked
+	2025-04-25 - 5.0 hours worked
+	2024-05-06 - 4.8 hours worked
+	2024-12-31 - 4.4 hours worked
+	2025-03-18 - 7.0 hours worked
+	2024-03-05 - 7.5 hours worked
+	2024-12-19 - 4.0 hours worked
+	2025-02-27 - 4.9 hours worked
+	2024-08-08 - 5.2 hours worked
+User name: Vasilis
+User id: 13
+Vasilis's payment type: Daily
+Vasilis's pay rate: 3.07
+Vasilis's Sessions:
+	2024-02-10 - 7.6 hours worked
+	2024-08-09 - 4.5 hours worked
+	2024-10-03 - 6.6 hours worked
+	2024-05-26 - 5.6 hours worked
+	2024-02-27 - 5.8 hours worked
+User name: Giannis
+User id: 14
+Giannis's payment type: Daily
+Giannis's pay rate: 8.45
+Giannis's Sessions:
+	2024-09-29 - 5.5 hours worked
+	2024-06-14 - 6.5 hours worked
+	2024-12-28 - 7.4 hours worked
+	2024-07-18 - 7.3 hours worked
+	2025-02-16 - 6.0 hours worked
+	2024-08-23 - 7.4 hours worked
+	2025-03-19 - 5.4 hours worked
+	2025-05-02 - 4.1 hours worked
+	2024-04-26 - 6.5 hours worked
+User name: Thanos
+User id: 15
+Thanos's payment type: Daily
+Thanos's pay rate: 7.47
+Thanos's Sessions:
+	2025-03-13 - 7.5 hours worked
+	2024-10-05 - 4.1 hours worked
+	2024-10-22 - 7.9 hours worked
+User name: Nikos
+User id: 16
+Nikos's payment type: Daily
+Nikos's pay rate: 4.63
+Nikos's Sessions:
+	2024-11-01 - 5.2 hours worked
+	2024-11-28 - 4.7 hours worked
+	2024-07-04 - 7.4 hours worked
+User name: Christos
+User id: 17
+Christos's payment type: Hourly
+Christos's pay rate: 7.91
+Christos's Sessions:
+	2024-08-01 - 6.9 hours worked
+	2025-01-02 - 6.2 hours worked
+	2024-08-03 - 5.2 hours worked
+	2024-06-13 - 7.4 hours worked
+	2024-12-02 - 5.6 hours worked
+User name: Maria
+User id: 18
+Maria's payment type: Daily
+Maria's pay rate: 8.29
+Maria's Sessions:
+	2024-04-09 - 5.3 hours worked
+	2024-04-24 - 7.2 hours worked
+	2024-11-06 - 5.8 hours worked
+	2024-02-06 - 6.0 hours worked
+	2024-03-03 - 5.4 hours worked
+User name: Thanos
+User id: 19
+Thanos's payment type: Daily
+Thanos's pay rate: 4.28
+Thanos's Sessions:
+	2024-04-07 - 4.3 hours worked
+	2024-04-12 - 7.1 hours worked
+	2025-01-24 - 5.8 hours worked
+	2024-11-09 - 4.4 hours worked
+	2024-10-16 - 5.0 hours worked
+	2024-05-20 - 5.0 hours worked
+	2024-07-15 - 5.5 hours worked
+User name: Katerina
+User id: 20
+Katerina's payment type: Hourly
+Katerina's pay rate: 2.3
+Katerina's Sessions:
+	2024-08-04 - 5.1 hours worked
+	2024-10-01 - 4.5 hours worked
+	2025-04-24 - 6.1 hours worked
+User name: Giannis
+User id: 21
+Giannis's payment type: Hourly
+Giannis's pay rate: 4.48
+Giannis's Sessions:
+	2024-05-15 - 5.8 hours worked
+	2024-08-23 - 7.2 hours worked
+	2024-06-21 - 7.5 hours worked
+	2024-07-01 - 7.5 hours worked
+	2025-01-06 - 4.7 hours worked
+	2024-02-19 - 4.7 hours worked
+User name: Nikos
+User id: 22
+Nikos's payment type: Daily
+Nikos's pay rate: 2.78
+Nikos's Sessions:
+	2024-03-08 - 5.3 hours worked
+	2025-03-21 - 7.3 hours worked
+	2025-04-28 - 5.3 hours worked
+User name: Giannis
+User id: 23
+Giannis's payment type: Hourly
+Giannis's pay rate: 9.46
+Giannis's Sessions:
+	2025-01-18 - 4.2 hours worked
+	2024-10-03 - 7.0 hours worked
+	2024-01-13 - 4.1 hours worked
+	2024-06-22 - 5.9 hours worked
+User name: Dimitris
+User id: 24
+Dimitris's payment type: Hourly
+Dimitris's pay rate: 9.33
+Dimitris's Sessions:
+	2025-04-20 - 7.8 hours worked
+	2024-05-07 - 6.4 hours worked
+	2024-03-03 - 4.2 hours worked
+	2024-03-19 - 5.6 hours worked
+	2024-09-02 - 7.8 hours worked
+	2025-04-06 - 6.2 hours worked
+	2024-07-31 - 6.5 hours worked
+	2024-01-09 - 7.4 hours worked
+	2024-04-13 - 5.5 hours worked
+	2024-06-11 - 7.2 hours worked
+User name: Eleni
+User id: 25
+Eleni's payment type: Daily
+Eleni's pay rate: 4.97
+Eleni's Sessions:
+	2025-01-22 - 5.0 hours worked
+	2024-12-20 - 7.1 hours worked
+	2024-04-22 - 8.0 hours worked
+	2025-03-13 - 5.8 hours worked
+	2024-05-22 - 4.5 hours worked
+User name: Christos
+User id: 26
+Christos's payment type: Hourly
+Christos's pay rate: 9.34
+Christos's Sessions:
+	2024-10-12 - 7.3 hours worked
+	2024-10-27 - 6.2 hours worked
+	2024-10-27 - 4.8 hours worked
+User name: Christos
+User id: 27
+Christos's payment type: Hourly
+Christos's pay rate: 4.49
+Christos's Sessions:
+	2024-08-12 - 5.3 hours worked
+	2024-09-18 - 5.4 hours worked
+	2025-03-18 - 6.2 hours worked
+	2024-11-18 - 6.8 hours worked
+	2024-10-10 - 6.7 hours worked
+	2025-03-04 - 5.6 hours worked
+User name: Thanos
+User id: 28
+Thanos's payment type: Daily
+Thanos's pay rate: 3.16
+Thanos's Sessions:
+	2024-09-18 - 6.7 hours worked
+	2024-06-05 - 8.0 hours worked
+	2024-12-01 - 5.1 hours worked
+	2025-04-09 - 4.1 hours worked
